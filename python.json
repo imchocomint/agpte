@@ -1,0 +1,16 @@
+{
+    "keywords": {
+        "def": "#FF0000",
+        "class": "#FF0000",
+        "import": "#FF0000",
+        "from": "#FF0000",
+        "return": "#fff700"
+    },
+    "modules": {
+        "numpy": "#0000FF",
+        "pandas": "#0000FF",
+        "matplotlib": "#0000FF"
+    },
+    "strings": "#008000",
+    "comments": "#808080"
+}

@@ -1,0 +1,14 @@
+{
+    "font": "JetBrains Mono",
+    "font_size": 12,
+    "font_color": "#000000",
+    "bg_color": "#FFFFFF",
+    "opacity": 1.0,
+    "keybinds": {
+        "save": "Ctrl+S",
+        "open": "Ctrl+O",
+        "exit": "Ctrl+Q",
+        "find": "Ctrl+F",
+        "replace": "Ctrl+R"
+    }
+}
